@@ -7,3 +7,5 @@
 
 # production
 /frontend/build
+.fly/
+.cursor/rules/fly-decision-records.mdc
